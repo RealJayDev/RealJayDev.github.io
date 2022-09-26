@@ -213,6 +213,7 @@ label{
 
 .content h4{
     font-size: 18px;
+    padding: 0.15rem 0rem;
     color: #585772;
 }
 
@@ -223,9 +224,10 @@ label{
 }
 
 .content img{
-    border-radius: 5px;
-    padding: 10px;
+    border-radius: 25px;
+    padding: 0.5rem;
     background-color: white;
+    width: 95%;
 }
 
 .row {
@@ -247,6 +249,8 @@ label{
     display: table;
     clear: both;
 }
+
+
 
 @keyframes drop {
 	0% {
